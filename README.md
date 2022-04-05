@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 
-Right now I'm busy working on:
-- Learning React
-- Learning Spring Boot
-- Redesigning my personal brand
-- Setting up my server (configuration, security, automation) 
-- Building my infrastructure (logging, analytics, etc.)
-- Preparing readmes for my public repos
+Right now, my primary goal is to get the chance for an internship at Appcent.
 
+I heard that they are using Spring Boot for backend, so expect more Java and Spring Boot projects here soon.
+
+This internship would be a great opportunity for me. I really want to work for Appcent.
+
+Wish me luck 😁
 
 <!--
-Hey! You are not supposed to see this.
-But if you did, you are indeed an awesome person :D
+YAYYYY LET'S MAKE THIS HAPPEN!!!
+- my inner voice
 -->
+

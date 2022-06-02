@@ -1,7 +1,7 @@
 ## Nice to see you here 👋
 
 
-> I'm looking for a company to perform my summer internship.
+> I'm looking for a company to perform my summer internship at.
 > Wouldn't you like to be that company?
 > Just reach me at: [iamosmannyildiz@gmail.com](mailto:iamosmannyildiz@gmail.com)
 
@@ -13,7 +13,7 @@ My short term goal is to get the chance to spend my last year in university work
 
 Right now I'm working on:
 - ⛓️ Figuring out how to build web apps that interact with the [Solana](https://solana.com) blockchain
-- ☕ Working on my current Spring Boot project, [SpringBootTodoProject](https://github.com/osmannyildiz/SpringBootTodoProjectBackend)
+- ☕ Building my current Spring Boot project, [SpringBootTodoProject](https://github.com/osmannyildiz/SpringBootTodoProjectBackend)
 - 📚 Learning the MERN stack (Node.js, Express, MongoDB, React)
 
 

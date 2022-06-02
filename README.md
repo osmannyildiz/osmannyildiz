@@ -19,8 +19,8 @@ Right now I'm working on:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=osmannyildiz&theme=radical&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannyildiz&theme=radical&hide=html&layout=compact&langs_count=6" alt="My most used languages">
+<img src="https://github-readme-stats.vercel.app/api?username=osmannyildiz&theme=radical&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannyildiz&theme=radical&hide=html&layout=compact&langs_count=6" alt="My most used languages" align="center">
 
 
 <br>

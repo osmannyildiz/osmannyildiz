@@ -23,7 +23,7 @@ Right now I'm working on:
 	<img src="https://github-readme-stats.vercel.app/api?username=osmannyildiz&theme=radical&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" align="center">
 </a>
 <a href="#">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannyildiz&theme=radical&hide=html&layout=compact&langs_count=6" alt="My most used languages" align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannyildiz&theme=radical&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" align="center">
 </a>
 
 

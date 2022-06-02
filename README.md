@@ -1,21 +1,29 @@
-## Hi there 👋
+## Nice to see you here 👋
 
 
-> **Status Update 2022-04-22:**<br>
-> It's exam week, yayyy! 🥳<br>
-> This place will be relatively quiet until May 5th. After that, I'll be back on track for my quest to get accepted to the Apptern.
+> I'm looking for a company to perform my summer internship.
+> Wouldn't you like to be that company?
+> Just reach me at: [iamosmannyildiz@gmail.com](mailto:iamosmannyildiz@gmail.com)
 
 
-Right now, my primary goal is to get the chance for an internship at [Appcent](https://www.appcent.mobi).
+I'm passionate about software development, especially web development. I try to put my theoretical knowledge (OOP, design patterns, SOLID principles) into practice by producing high quality code. Learning new methodologies for writing scalable and maintainable software products is exciting for me.
 
-I heard that they are using Spring Boot for backend, so expect more Java and Spring Boot projects here soon.
+My short term goal is to get the chance to spend my last year in university working part-time remotely. In long term, I want to become an expert with in-depth knowledge of the best practices for building web services.
 
-This internship would be a great opportunity for me. I *really* want to work for Appcent.
 
-Wish me luck 😁
+Right now I'm working on:
+- ⛓️ Figuring out how to build web apps that interact with the [Solana](https://solana.com) blockchain
+- ☕ Working on my current Spring Boot project, [SpringBootTodoProject](https://github.com/osmannyildiz/SpringBootTodoProjectBackend)
+- 📚 Learning the MERN stack (Node.js, Express, MongoDB, React)
 
-<!--
-YAYYYY LET'S MAKE THIS HAPPEN!!!
-- my inner voice
--->
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=osmannyildiz&theme=radical&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannyildiz&theme=radical&hide=html&layout=compact&langs_count=6" alt="My most used languages">
+
+
+<br>
+
+`// THIS IS JUST THE BEGINNING.`
 

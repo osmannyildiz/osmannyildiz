@@ -23,7 +23,7 @@ Right now I'm working on:
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannyildiz&theme=radical&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" align="center"></span>
 
 
-<br><br>
+<br>
 
 `// THIS IS JUST THE BEGINNING.`
 

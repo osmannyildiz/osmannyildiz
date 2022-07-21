@@ -1,11 +1,6 @@
 ## Nice to see you here 👋
 
 
-> I'm looking for a company to perform my summer internship at.
-> Wouldn't you like to be that company?
-> Just reach me at: [iamosmannyildiz@gmail.com](mailto:iamosmannyildiz@gmail.com)
-
-
 I'm passionate about software development, especially full-stack web development. I aim to put my theoretical knowledge (OOP, design patterns, SOLID principles) into practice by producing high quality code. Learning new methodologies for writing scalable and maintainable software products is exciting for me.
 
 My short term goal is to get the chance to spend my last year in university working part-time remotely. In long term, I want to become an expert with in-depth knowledge of the best practices for building web services.

@@ -15,10 +15,10 @@ export default {
     ],
     ongoingProjects: [
         "Remixers (Turbin3 capstone project)",
-        "SolVault (Encode Solana final project)",
+        "SolVault (Encode Solana Bootcamp final project)",
         "Funcy (Rise In Advanced Solana Bootcamp final project)",
-        "FiveSwap (Encode Expert Solidity final project)",
-        "KubYemek (senior design project)",
+        "FiveSwap (Encode Expert Solidity Bootcamp final project)",
+        "KubYemek (Computer Engineering senior design project)",
     ],
     trivia: {
         preferredBrowser: "firefox",
@@ -26,4 +26,6 @@ export default {
         lovesLinuxButUsesMacbook: true,
     },
 };
+
+// THE FUTURE IS NOW.
 ```

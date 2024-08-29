@@ -1,27 +1,29 @@
-## Nice to see you here 👋
-
-
-I'm passionate about software development, especially full-stack web development. I aim to put my theoretical knowledge (OOP, design patterns, SOLID principles) into practice by producing high quality code. Learning new methodologies for writing scalable and maintainable software products is exciting for me.
-
-My short term goal is to spend my last year in university working part-time or remotely. In long term, I want to become an expert with in-depth knowledge of the best practices for building web services and apps.
-
-
-#### Right now I'm working on:
-
-- ✨ Improving my previous web projects with *TypeScript* and *Sass*
-- 💚 Configuring my VPS, so that I can host web applications written in any programming language (thanks to *Nginx*)
-- 📚 Learning about *web3*
-
-
-<br>
-
-
-<span><img src="https://github-readme-stats.vercel.app/api?username=osmannyildiz&theme=transparent&hide_border=true&hide=issues&show_icons=true&include_all_commits=true" alt="My GitHub stats" align="center"></span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=osmannyildiz&theme=transparent&hide_border=true&hide=html&layout=compact&langs_count=6&card_width=275" alt="My most used languages" align="center"></span>
-
-
-<br>
-
-
-`// THIS IS JUST THE BEGINNING.`
-
+```typescript
+export default {
+    preferredName: "Osman",
+    skills: [
+        "full-stack web dev",
+        "web3 dev",
+        "mobile dev",
+        "UI/UX design",
+        "graphic design",
+    ],
+    interests: [
+        "solana",
+        "open source",
+        "cybersec",
+    ],
+    ongoingProjects: [
+        "Remixers (Turbin3 capstone project)",
+        "SolVault (Encode Solana final project)",
+        "Funcy (Rise In Advanced Solana Bootcamp final project)",
+        "FiveSwap (Encode Expert Solidity final project)",
+        "KubYemek (senior design project)",
+    ],
+    trivia: {
+        preferredBrowser: "firefox",
+        preferredPackageManager: "pnpm",
+        lovesLinuxButUsesMacbook: true,
+    },
+};
+```

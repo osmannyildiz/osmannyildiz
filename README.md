@@ -15,6 +15,7 @@ export default {
     ],
     ongoingProjects: [
         "Remixers (Turbin3 capstone project)",
+        "Byplaces (Superteam Turkey Ideathon winner project)",
         "SolVault (Encode Solana Bootcamp final project)",
         "Funcy (Rise In Advanced Solana Bootcamp final project)",
         "FiveSwap (Encode Expert Solidity Bootcamp final project)",
